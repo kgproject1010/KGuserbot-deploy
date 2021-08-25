@@ -1,3 +1,3 @@
 from os import system
-system ("git clone https://GitHub.com/MadBoy-X/SuperBot && cd SuperBot && python3 -m SuperBot")
-print ("The SuperBot has crashed, save the logs and share it in @SuperBot_Support for help.")
+system ("git clone https://GitHub.com/kgproject1010/KGuserbot && cd KGuserbot && python3 -m KGuserbit")
+print ("The KGuserbot has crashed, save the logs and share it in @KGSupportgroup for help.")
